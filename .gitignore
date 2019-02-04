@@ -1,0 +1,8 @@
+build
+node_modules
+
+pakage-lock.json
+yarn-error.log
+
+# vi swap files
+*.swp

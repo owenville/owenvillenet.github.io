@@ -1,0 +1,13 @@
+{
+  "name": "owenville.github.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/owenville/owenville.github.io.git",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^4.4.1"
+  },
+  "scripts": {
+    "start": "echo 'hello'"
+  }
+}
